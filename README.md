@@ -4,7 +4,9 @@ For example,
 consider Grammar
 
 S->CC
+
 C->cC
+
 C->d
 
 Acceptable Input Strings
